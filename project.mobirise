@@ -12,9 +12,9 @@
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Oswald",
-        "subtitleFont": "Oswald",
-        "textFont": "Oswald",
+        "titleFont": "Open Sans",
+        "subtitleFont": "Open Sans",
+        "textFont": "Open Sans",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
@@ -240,7 +240,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "GEORGE'S HANDYMAN",
+          "title": "HANDYMAN GEORGE",
           "text": "<b>DO YOU NEED ASSISTANCE WITH  YOUR DIY JOBS. <br>SPECIALIZING IN: INSTALLATIONS,<br>MAINTENANCE, REPAIRS, DRYWALLING,<br>PAINTING AND MUCH MORE.</b> <br><br>NO JOB IS CONSIDERED TOO SMALL.<br>COVER AREAS: WEST RAND, JOHANNESBURG, <br>EAST RAND AND THE SOUTH<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -353,7 +353,9 @@
               "border-color": "@primaryColor"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "_name": "features7",
